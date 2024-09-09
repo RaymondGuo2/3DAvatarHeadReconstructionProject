@@ -1,0 +1,21 @@
+[submodule "Avatar-3D-VAE-GAN"]
+	path = Avatar-3D-VAE-GAN
+	url = https://github.com/RaymondGuo2/Avatar-3D-VAE-GAN.git
+[submodule "Deep3DFaceReconstruction-Reproduction"]
+	path = Deep3DFaceReconstruction-Reproduction
+	url = https://github.com/RaymondGuo2/Deep3DFaceReconstruction-Reproduction.git
+[submodule "Head_Model_PCN"]
+	path = Head_Model_PCN
+	url = https://github.com/RaymondGuo2/Head_Model_PCN.git
+[submodule "TF_FLAME_Reproduction"]
+	path = TF_FLAME_Reproduction
+	url = https://github.com/RaymondGuo2/TF_FLAME_Reproduction.git
+[submodule "FFHQ-UV-RGB"]
+	path = FFHQ-UV-RGB
+	url = https://github.com/RaymondGuo2/FFHQ-UV-RGB.git
+[submodule "FacialExpressionApplication"]
+	path = FacialExpressionApplication
+	url = https://github.com/RaymondGuo2/FacialExpressionApplication.git
+[submodule "ExpressionChangeUnity"]
+	path = ExpressionChangeUnity
+	url = https://github.com/RaymondGuo2/ExpressionChangeUnity.git
